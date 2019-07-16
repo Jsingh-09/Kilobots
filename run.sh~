@@ -1,0 +1,6 @@
+#!/bin/bash
+
+g++ main.cpp
+./a.out
+cd video
+python3 vid.py
